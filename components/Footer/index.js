@@ -12,14 +12,13 @@ const Footer = (props) => {
 const styles = StyleSheet.create({
   footer: {
     height: 25,
-    marginBottom: 25,
+    marginBottom: 50,
     width: "100%",
-    backgroundColor: "#212121",
     justifyContent: "center",
     alignItems: "center",
   },
   text: {
-    color: "#EEEEEE",
+    color: "#212121",
     fontSize: 10,
   },
 });
